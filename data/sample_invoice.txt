@@ -1,0 +1,11 @@
+ACME Corp Invoice
+Invoice Number: INV-001
+Date: 2024-05-12
+
+Items:
+- Widget A ........  3 x 20.00 EUR
+- Widget B ........  1 x 63.45 EUR
+
+Total: 123.45 EUR
+
+Thank you for your business.
